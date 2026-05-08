@@ -1,0 +1,15 @@
+[0.903s] Invoking command in '/home/manuel2404/pascalito_turing_robotics/build/robot_diffe': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/manuel2404/pascalito_turing_robotics/build/robot_diffe/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manuel2404/pascalito_turing_robotics/install/robot_diffe/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/manuel2404/pascalito_turing_robotics/build/robot_diffe/build --no-deps symlink_data
+[1.284s] running develop
+[1.555s] running egg_info
+[1.581s] writing robot_diffe.egg-info/PKG-INFO
+[1.581s] writing dependency_links to robot_diffe.egg-info/dependency_links.txt
+[1.581s] writing requirements to robot_diffe.egg-info/requires.txt
+[1.581s] writing top-level names to robot_diffe.egg-info/top_level.txt
+[1.633s] reading manifest file 'robot_diffe.egg-info/SOURCES.txt'
+[1.634s] writing manifest file 'robot_diffe.egg-info/SOURCES.txt'
+[1.661s] running build_ext
+[1.661s] Creating /home/manuel2404/pascalito_turing_robotics/install/robot_diffe/lib/python3.12/site-packages/robot-diffe.egg-link (link to .)
+[1.661s] 
+[1.661s] Installed /home/manuel2404/pascalito_turing_robotics/build/robot_diffe
+[1.661s] running symlink_data
+[1.689s] Invoked command in '/home/manuel2404/pascalito_turing_robotics/build/robot_diffe' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/manuel2404/pascalito_turing_robotics/build/robot_diffe/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manuel2404/pascalito_turing_robotics/install/robot_diffe/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/manuel2404/pascalito_turing_robotics/build/robot_diffe/build --no-deps symlink_data
