@@ -1,0 +1,1 @@
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/ament_cmake_environment_hooks/local_setup.zsh

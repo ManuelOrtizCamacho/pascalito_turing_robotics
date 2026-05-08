@@ -1,0 +1,11 @@
+package.xml
+setup.cfg
+setup.py
+resource/robot_diffe
+robot_diffe/__init__.py
+robot_diffe.egg-info/PKG-INFO
+robot_diffe.egg-info/SOURCES.txt
+robot_diffe.egg-info/dependency_links.txt
+robot_diffe.egg-info/requires.txt
+robot_diffe.egg-info/top_level.txt
+robot_diffe.egg-info/zip-safe

@@ -1,0 +1,20 @@
+running develop
+running egg_info
+creating robot_diffe.egg-info
+writing robot_diffe.egg-info/PKG-INFO
+writing dependency_links to robot_diffe.egg-info/dependency_links.txt
+writing requirements to robot_diffe.egg-info/requires.txt
+writing top-level names to robot_diffe.egg-info/top_level.txt
+writing manifest file 'robot_diffe.egg-info/SOURCES.txt'
+reading manifest file 'robot_diffe.egg-info/SOURCES.txt'
+writing manifest file 'robot_diffe.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/manuel2404/pascalito_turing_robotics/install/robot_diffe/lib/python3.12/site-packages/robot-diffe.egg-link (link to .)
+
+Installed /home/manuel2404/pascalito_turing_robotics/build/robot_diffe
+running symlink_data
+creating /home/manuel2404/pascalito_turing_robotics/install/robot_diffe/share/ament_index
+creating /home/manuel2404/pascalito_turing_robotics/install/robot_diffe/share/ament_index/resource_index
+creating /home/manuel2404/pascalito_turing_robotics/install/robot_diffe/share/ament_index/resource_index/packages
+symbolically linking /home/manuel2404/pascalito_turing_robotics/build/robot_diffe/resource/robot_diffe -> /home/manuel2404/pascalito_turing_robotics/install/robot_diffe/share/ament_index/resource_index/packages
+symbolically linking /home/manuel2404/pascalito_turing_robotics/build/robot_diffe/package.xml -> /home/manuel2404/pascalito_turing_robotics/install/robot_diffe/share/robot_diffe

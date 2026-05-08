@@ -1,0 +1,50 @@
+[0.014s] Invoking command in '/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manuel2404/ros2_ws_2601/install/turtle_move_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/modelrobot_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/launch_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/diff_driver_car_pkg:/home/manuel2404/ws_exam_20261/install/robot_examen_number:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/manuel2404/pascalito_turing_robotics/src/gazebo_differential_drive_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot
+[0.123s] -- The C compiler identification is GNU 13.3.0
+[0.202s] -- The CXX compiler identification is GNU 13.3.0
+[0.223s] -- Detecting C compiler ABI info
+[0.313s] -- Detecting C compiler ABI info - done
+[0.322s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.323s] -- Detecting C compile features
+[0.323s] -- Detecting C compile features - done
+[0.333s] -- Detecting CXX compiler ABI info
+[0.437s] -- Detecting CXX compiler ABI info - done
+[0.446s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.447s] -- Detecting CXX compile features
+[0.447s] -- Detecting CXX compile features - done
+[0.457s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.625s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.697s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.767s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.890s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.890s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.892s] -- Added test 'lint_cmake' to check CMake code style
+[0.893s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.898s] -- Added test 'xmllint' to check XML markup files
+[0.901s] -- Configuring done (0.9s)
+[0.904s] -- Generating done (0.0s)
+[0.906s] -- Build files have been written to: /home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot
+[0.910s] Invoked command in '/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manuel2404/ros2_ws_2601/install/turtle_move_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/modelrobot_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/launch_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/diff_driver_car_pkg:/home/manuel2404/ws_exam_20261/install/robot_examen_number:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/manuel2404/pascalito_turing_robotics/src/gazebo_differential_drive_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot
+[0.912s] Invoking command in '/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manuel2404/ros2_ws_2601/install/turtle_move_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/modelrobot_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/launch_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/diff_driver_car_pkg:/home/manuel2404/ws_exam_20261/install/robot_examen_number:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot -- -j16 -l16
+[0.950s] Invoked command in '/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manuel2404/ros2_ws_2601/install/turtle_move_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/modelrobot_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/launch_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/diff_driver_car_pkg:/home/manuel2404/ws_exam_20261/install/robot_examen_number:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot -- -j16 -l16
+[0.961s] Invoking command in '/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manuel2404/ros2_ws_2601/install/turtle_move_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/modelrobot_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/launch_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/diff_driver_car_pkg:/home/manuel2404/ws_exam_20261/install/robot_examen_number:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot
+[0.969s] -- Install configuration: ""
+[0.969s] -- Execute custom install script
+[0.970s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/launch/robot.launch.py
+[0.979s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/model/robot.xacro
+[0.989s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/config/gz_bridge.yaml
+[0.998s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/ament_index/resource_index/package_run_dependencies/gazebo_differential_drive_robot
+[1.008s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/ament_index/resource_index/parent_prefix_path/gazebo_differential_drive_robot
+[1.017s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/environment/ament_prefix_path.sh
+[1.026s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/environment/ament_prefix_path.dsv
+[1.036s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/environment/path.sh
+[1.046s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/environment/path.dsv
+[1.056s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/local_setup.bash
+[1.067s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/local_setup.sh
+[1.076s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/local_setup.zsh
+[1.085s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/local_setup.dsv
+[1.094s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/package.dsv
+[1.104s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/ament_index/resource_index/packages/gazebo_differential_drive_robot
+[1.113s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/cmake/gazebo_differential_drive_robotConfig.cmake
+[1.123s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/cmake/gazebo_differential_drive_robotConfig-version.cmake
+[1.132s] -- Symlinking: /home/manuel2404/pascalito_turing_robotics/install/gazebo_differential_drive_robot/share/gazebo_differential_drive_robot/package.xml
+[1.144s] Invoked command in '/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/manuel2404/ros2_ws_2601/install/turtle_move_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/modelrobot_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/launch_pkg_mjoc:/home/manuel2404/ros2_ws_2601/install/diff_driver_car_pkg:/home/manuel2404/ws_exam_20261/install/robot_examen_number:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot

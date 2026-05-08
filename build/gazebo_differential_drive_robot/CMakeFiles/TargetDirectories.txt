@@ -1,0 +1,9 @@
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/CMakeFiles/uninstall.dir
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/CMakeFiles/gazebo_differential_drive_robot_uninstall.dir
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/CMakeFiles/test.dir
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/CMakeFiles/edit_cache.dir
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/CMakeFiles/rebuild_cache.dir
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/CMakeFiles/list_install_components.dir
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/CMakeFiles/install.dir
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/CMakeFiles/install/local.dir
+/home/manuel2404/pascalito_turing_robotics/build/gazebo_differential_drive_robot/CMakeFiles/install/strip.dir
